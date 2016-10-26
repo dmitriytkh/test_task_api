@@ -1,5 +1,5 @@
 # test_task_api
-test task api
+
 Start application:
 
 start server: in the project root folder, run the command "php -S localhost:8000 index.php"
