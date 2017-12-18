@@ -128,4 +128,4 @@ function init(listElement) {
 			};
 		}
 	};
-}
+} 
